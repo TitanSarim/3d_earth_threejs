@@ -2,7 +2,6 @@ import { useFrame, useLoader } from "@react-three/fiber";
 import { OrbitControls, Stars } from "@react-three/drei";
 import clouds from "../../assets/images/8k_earth_clouds.jpg";
 import daymap from "../../assets/images/8k_earth_daymap.jpg";
-import nightmap from "../../assets/images/8k_earth_nightmap.jpg";
 import nmap from "../../assets/images/8k_earth_normal_map.jpg";
 import specularmap from "../../assets/images/8k_earth_specular_map.jpg";
 import * as THREE from "three";
